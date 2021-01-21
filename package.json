@@ -25,7 +25,7 @@
     "node-version-compare": "^1.0.2",
     "qs": "^6.8.0",
     "randomstring": "^1.1.5",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "nodemonConfig": {
     "ignore": [
